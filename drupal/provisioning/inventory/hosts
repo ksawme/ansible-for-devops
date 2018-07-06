@@ -1,0 +1,6 @@
+# Lines beginning with a # are comments, and are only included for 
+# illustration. These comments are overkill for most inventory files
+
+# Application servers
+[app]
+192.168.88.8  ansible_ssh_pass=vagrant ansible_ssh_user=vagrant
